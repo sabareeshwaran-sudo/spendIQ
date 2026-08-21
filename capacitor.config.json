@@ -1,0 +1,9 @@
+{
+  "appId": "com.spendiq.app",
+  "appName": "SpendIQ",
+  "webDir": "dist",
+  "backgroundColor": "#151827",
+  "android": {
+    "backgroundColor": "#151827"
+  }
+}
